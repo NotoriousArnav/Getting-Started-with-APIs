@@ -17,11 +17,12 @@
     ],
     "date": "2022-10-07",
     "channel": "Just Arnav"
-  }
+  },
     "$schema": "http://json-schema.org/schema",
   "supporting_files": {
     "images": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONWnGzN8Liuo9yNUoCqa0n8VL7GGVmejsRg&usqp=CAU"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONWnGzN8Liuo9yNUoCqa0n8VL7GGVmejsRg&usqp=CAU",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvyr6HyD7oXo0Nl3o3KxsbgDNJVy-jTIFAg&usqp=CAU"
     ],
     "clips": [],
     "sources": []

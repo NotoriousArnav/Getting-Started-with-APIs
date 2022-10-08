@@ -6,7 +6,7 @@ To Follow Along, read [dir.json](./dir.json), it contains all the resources for 
 
 # Part 1 : Understanding APIs
 See [1.md](./1.md) to See how API Works.
-It explains what is An API,  and How they work.
+It explains what is An API, and How they work.
 
 # Part 2 : Using APIs
 See [2.md](./2.md) to See how to Use an API (In Python).
